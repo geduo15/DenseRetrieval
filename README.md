@@ -98,7 +98,7 @@
 | [Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval.](https://arxiv.org/pdf/2208.04232.pdf) | Zehan Li et al. | Arxiv 2022 | [Python](https://github.com/jordane95/dual-cross-encoder)
 | [Shallow pooling for sparse labels.](https://arxiv.org/pdf/2109.00062.pdf) | Negar Arabzadeh et al. | Arxiv 2021 | NA
 | [Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models.](https://dl.acm.org/doi/pdf/10.1145/3511808.3557343) | Yinqiong Cai et al. | Arxiv 2022 | NA
-| [Debiased Contrastive Learning of Unsupervised Sentence Representations.](https://arxiv.org/pdf/2205.00656.pdf) | Kun Zhou et al. | ACL 2022 | NA
+
 
 
 ### Negative Selection
@@ -148,7 +148,7 @@
 | [PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://arxiv.org/pdf/2201.12093.pdf) | Qiyu Wu et al. | Arxiv 2022 | [Python](https://github.com/qiyuw/PeerCL)
 | [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations.](https://arxiv.org/pdf/2109.13059.pdf) | Fangyu Liu et al. | ICLR 2022 | [Python](https://github.com/amzn/trans-encoder) |
 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Tianyu Gao et al. |Arxiv 2022 | [Python](https://github.com/princeton-nlp/SimCSE) |
-
+| [Debiased Contrastive Learning of Unsupervised Sentence Representations.](https://arxiv.org/pdf/2205.00656.pdf) | Kun Zhou et al. | ACL 2022 | NA
 
 
 

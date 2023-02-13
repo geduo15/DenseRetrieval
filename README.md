@@ -145,8 +145,10 @@
 
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
-| [PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://arxiv.org/pdf/2201.12093.pdf) | Qiyu Wu et al. | Arxiv 2022 | https://github.com/qiyuw/PeerCL
+| [PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://arxiv.org/pdf/2201.12093.pdf) | Qiyu Wu et al. | Arxiv 2022 | [Python](https://github.com/qiyuw/PeerCL)
 | [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations.](https://arxiv.org/pdf/2109.13059.pdf) | Fangyu Liu et al. | ICLR 2022 | [Python](https://github.com/amzn/trans-encoder) |
+| [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Tianyu Gao et al. |Arxiv 2022 | [Python](https://github.com/princeton-nlp/SimCSE) |
+
 
 
 

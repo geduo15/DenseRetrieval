@@ -310,6 +310,8 @@
 | [Retrieval Augmentation Reduces Hallucination in Conversation.](https://arxiv.org/pdf/2104.07567.pdf) | Kurt Shuster et al. | EMNLP 2021 | NA |
 | [Internet-Augmented Dialogue Generation.](https://arxiv.org/pdf/2107.07566) | Mojtaba Komeili et al. | ACL 2022 | NA |
 | [LaMDA: Language Models for Dialog Applications.](https://arxiv.org/pdf/2201.08239.pdf) | Romal Thoppilan et al. | Arxiv 2022 | NA |
+| [Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA](https://arxiv.org/pdf/2210.05197.pdf)| Junjie Huang1 et al. | Arxiv 2022 | NA |
+
 
 ### Industrial Practice
 | **Paper** | **Author** | **Venue** | **Code** |

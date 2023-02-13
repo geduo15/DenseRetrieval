@@ -140,6 +140,10 @@
 | [Pro-KD: Progressive Distillation by Following the Footsteps of the Teacher.](https://arxiv.org/pdf/2110.08532.pdf) | Mehdi Rezagholizadeh et al. | COLING 2022 | NA
 | [Questions Are All You Need to Train a Dense Passage Retriever.](https://arxiv.org/pdf/2206.10658.pdf) | Devendra Singh Sachan et al. | Arxiv 2022 | [Python](https://github.com/DevSinghSachan/art)
 | [PROD: Progressive Distillation for Dense Retrieval.](https://arxiv.org/pdf/2209.13335.pdf) | Zhenghao Lin et al. | Arxiv 2022 | NA
+#### Unsupervised Sentence Embeddings
+| [PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://arxiv.org/pdf/2201.12093.pdf) | Qiyu Wu et al. | Arxiv 2022 | https://github.com/qiyuw/PeerCL
+
+
 
 
 ### Pre-training

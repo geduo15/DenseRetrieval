@@ -140,8 +140,13 @@
 | [Pro-KD: Progressive Distillation by Following the Footsteps of the Teacher.](https://arxiv.org/pdf/2110.08532.pdf) | Mehdi Rezagholizadeh et al. | COLING 2022 | NA
 | [Questions Are All You Need to Train a Dense Passage Retriever.](https://arxiv.org/pdf/2206.10658.pdf) | Devendra Singh Sachan et al. | Arxiv 2022 | [Python](https://github.com/DevSinghSachan/art)
 | [PROD: Progressive Distillation for Dense Retrieval.](https://arxiv.org/pdf/2209.13335.pdf) | Zhenghao Lin et al. | Arxiv 2022 | NA
-#### Unsupervised Sentence Embeddings
+
+### Unsupervised Sentence Embeddings
+
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
 | [PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://arxiv.org/pdf/2201.12093.pdf) | Qiyu Wu et al. | Arxiv 2022 | https://github.com/qiyuw/PeerCL
+| [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations.](https://arxiv.org/pdf/2109.13059.pdf) | Fangyu Liu et al. | ICLR 2022 | [Python](https://github.com/amzn/trans-encoder) |
 
 
 
@@ -159,7 +164,6 @@
 | [Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval.](https://arxiv.org/pdf/2108.05540.pdf) | Luyu Gao et al. | ACL 2022 | [Python](https://github.com/luyug/Condenser) |
 | [Condenser: a Pre-training Architecture for Dense Retrieval.](https://arxiv.org/pdf/2104.08253.pdf) | Luyu Gao et al. | EMNLP 2021 | [Python](https://github.com/luyug/Condenser) |
 | [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning.](https://arxiv.org/pdf/2104.06979) | Kexin Wang et al. | EMNLP 2021 | [Python](https://github.com/UKPLab/sentence-transformers/) |
-| [SimCSE: Simple Contrastive Learning of Sentence Embeddings.](https://arxiv.org/pdf/2104.08821.pdf) | Tianyu Gao et al. | EMNLP 2021 | [Python](https://github.com/princeton-nlp/SimCSE) |
 | [Towards Robust Neural Retrieval Models with Synthetic Pre-Training.](https://arxiv.org/pdf/2104.07800v1) | Revanth Gangi Reddy et al. | Arxiv 2021 | NA |
 | [Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering.](https://arxiv.org/pdf/2203.06942.pdf) | Jiawei Zhou et al. | ACL 2022 | [Python](https://github.com/jzhoubu/HLP) |
 | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.](https://arxiv.org/pdf/1908.10084.pdf) | Nils Reimer et al. | EMNLP 2019 | [Python](https://github.com/UKPLab/sentence-transformers)
@@ -203,7 +207,6 @@
 | --- | --- | --- | --- |
 | [RocketQAv2: A Joint Training Method for Dense Passage Retrieval and Passage Re-ranking.](https://aclanthology.org/2021.emnlp-main.224.pdf) | Ruiyang Ren et al. | EMNLP 2021 | [Python](https://github.com/PaddlePaddle/RocketQA/tree/main/research/RocketQAv2_EMNLP2021) |
 | [Dealing with Typos for BERT-based Passage Retrieval and Ranking.](https://arxiv.org/pdf/2108.12139.pdf) | Shengyao Zhuang et al. | EMNLP 2021 | [Python](https://github.com/ielab/typos-aware-BERT) |
-| [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations.](https://arxiv.org/pdf/2109.13059.pdf) | Fangyu Liu et al. | ICLR 2022 | [Python](https://github.com/amzn/trans-encoder) |
 | [Adversarial Retriever-Ranker for dense text retrieval.](https://arxiv.org/pdf/2110.03611.pdf) | Hang Zhang et al. | Arxiv 2021 | NA |
 | [Embedding-based Retrieval in Facebook Search.](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305) | Jui-Ting Huang et al. | KDD 2020 | NA |
 | [Passage Re-ranking With BERT.](https://arxiv.org/pdf/1901.04085.pdf) | Rodrigo Nogueira et al. | Arxiv 2019 | NA
